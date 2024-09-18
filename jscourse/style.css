@@ -1,0 +1,50 @@
+body {
+    background-image: url(images/colorful-video-game-controller-on-black-background-photo.jpg);
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 100%;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:rgb(47, 44, 40)
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color:rgb(66, 62, 56)
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(239, 232, 232);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: rgb(0, 139, 125);
+}
+
+#save-btn {
+    background: rgb(44, 88, 171);
+}
+.container{
+    background: white;
+    max-width: 60%;
+    margin:auto;
+    border:3px solid black;
+    border-radius:10px;
+}
+#save-btn{
+    font-weight: bold;
+}
